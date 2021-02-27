@@ -1,25 +1,25 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Doks"
+title = "AppifySheets"
 titleSeparator = "-"
 titleAddition = "Modern Documentation Theme"
 description = "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
 
 ## Open Graph + Twitter Cards
-images = ["doks.png"]
+images = ["AppifySheetsCirclesLogo.png"]
 twitterSite = "henkverlinde"
 twitterCreator = "henkverlinde"
-facebookAuthor = "verlinde.henk"
-facebookPublisher = "verlinde.henk"
+facebookAuthor = "petre.chitashvili"
+facebookPublisher = "petre.chitashvili"
 ogLocale = "en_US"
 
 ## JSON-LD
 schemaType = "Organization"
 schemaLogo = "logo-doks.png"
-schemaTwitter = "https://twitter.com/henkverlinde"
-schemaLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
-schemaGitHub = "https://github.com/h-enk"
+schemaTwitter = "https://twitter.com/pchitashvili"
+schemaLinkedIn = "https://ge.linkedin.com/in/petre-chitashvili/"
+schemaGitHub = "https://github.com/AppifySheets/"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
@@ -43,5 +43,5 @@ alert = false
 alertText = "Like Doks? <a class=\"alert-link\" href=\"https://github.com/h-enk/doks/stargazers\">Star on GitHub</a>. Thanks!</a>"
 
 # Edit Page
-docsRepo = "https://github.com/h-enk/doks"
-editPage = false
+docsRepo = "https://github.com/AppifySheets/AppifySheets.github.io"
+editPage = true
