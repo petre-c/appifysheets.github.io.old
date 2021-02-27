@@ -5,5 +5,5 @@ lead: "Doks is a Hugo theme helping you build modern documentation websites that
 date: 2020-10-06T08:47:36+00:00
 lastmod: 2020-10-06T08:47:36+00:00
 draft: false
-images: []
+images: ["AppifySheets-WithText-Logo.png"]
 ---
