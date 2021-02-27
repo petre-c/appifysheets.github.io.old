@@ -49,7 +49,7 @@ $container-max-widths: (
   sm: 540px,
   md: 720px,
   lg: 960px,
-  xl: 1240px
+  xl: 2000px
 );
 
 @include _assert-ascending($container-max-widths, "$container-max-widths");
@@ -60,7 +60,7 @@ $container-max-widths: (
 
 $grid-columns:                16;
 $grid-gutter-width:           48px;
-$grid-row-columns:            6;
+$grid-row-columns:            8;
 
 // Components
 //
