@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://appifysheets.com/sitemap.xml
+Sitemap: https://appifysheets.com/sitemap.xml
